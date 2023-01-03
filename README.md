@@ -18,5 +18,7 @@ Please do note that this is **not** an exhaustive list of the languages supporte
 
 Throughout this repository [Concordium Testnet](https://testnet.ccdscan.io/) is being used to demo the functionality.
 
+- To learn more about the contracts being used and how to build, deploy & modify them please see [concordium-contracts repository](https://github.com/chainorders/concordium-contracts)
+
 - Interact with Contracts
   - Using [Frontend React Code](./market-ui/README.md)
